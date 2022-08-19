@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JP-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="JP-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="JP-Asm" height="30" width="40" src="">
+  <img align="center" alt="JP-Asm" height="30" width="30" src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png">
   <img align="center" alt="JP-Scratch" height="30" width="80" src="https://cdn.discordapp.com/attachments/1010075119420444722/1010075223644704828/pngwing.com.png">
 </div>
   
