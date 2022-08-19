@@ -9,7 +9,6 @@
   <img align="center" alt="JP-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="JP-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="JP-Asm" height="30" width="30" src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png">
-  <img align="center" alt="JP-Scratch" height="30" width="80" src="https://cdn.discordapp.com/attachments/1010075119420444722/1010075223644704828/pngwing.com.png">
 </div>
   
 ##
@@ -19,6 +18,7 @@
   <a href="https://instagram.com/jpedroflx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-felix-2b3555226" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://account.xbox.com/pt-BR/Profile?xr=mebarnav" target="_blank"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" target="_blank"></a>
+  <a href="https://scratch.mit.edu/users/jpedroflx/" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/jpedroflx/jpedroflx/blob/output/github-contribution-grid-snake.svg)
  
