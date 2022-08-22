@@ -8,6 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="JP-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="JP-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JP-Asm" height="30" width="30" src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png">
 </div>
   
