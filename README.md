@@ -10,7 +10,7 @@
   <img align="center" alt="JP-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JP-Asm" height="30" width="30" src="https://www.powerandcables.com/wp-content/uploads/2021/02/ASM-Symbol-Blue-Tight-002-min.png">
-  <img align="right" alt="Luffy" height="150" src="https://img1.ak.crunchyroll.com/i/spire1/8cb53d60754fe518f5add8882d116e821533018150_full.jpg">
+  <img align="right" alt="Luffy" height="150" src="https://c.tenor.com/PHtj-x2gzKAAAAAM/one-piece-anime.gif">
 </div>
   
 ##
